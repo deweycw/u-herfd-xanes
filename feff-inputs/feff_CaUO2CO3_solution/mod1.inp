@@ -1,0 +1,19 @@
+mpot, nph, ntitle, ihole, ipr1, iafolp, ixc,ispec
+   1   3   5   4   1   0   0   1
+nmix, nohole, jumprm, inters, nscmt, icoul, lfms1, iunf
+   3  -1   0   0  30   0   1   0
+CaUO2(CO3)3 2- solution complex - U L3-edge XANES                               
+Based on liebigite geometry (Mereiter 1982, COD 9009613)                        
+Single Ca, no lattice waters - solution-phase model                             
+2 Oax + 6 Oeq + 3 C + 3 Odis + 1 Ca                                             
+** Replace distances with your EXAFS-fit values **                              
+gamach, rgrd, ca1, ecv, totvol, rfms1
+      8.10396      0.05000      0.20000    -40.00000      0.00000      6.00000
+ iz, lmaxsc, xnatph, xion, folp
+   92    2      1.00000      0.00000      1.15000
+    8    2      0.10000      0.00000      1.15000
+    6    2      0.10000      0.00000      1.15000
+   20    2      0.10000      0.00000      1.15000
+OVERLAP option: novr(iph)
+   0   0   0   0
+ iphovr  nnovr rovr 

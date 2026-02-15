@@ -1,0 +1,38 @@
+ Feff 8.40
+  XANES:
+ Inconsistency in POTENTIAL card****
+ Results might be meaningless.
+ Inconsistency in POTENTIAL card****
+ Results might be meaningless.
+ Inconsistency in POTENTIAL card****
+ Results might be meaningless.
+ Ca2UO2(CO3)3(aq) di-Ca complex - U L3-edge XANES
+ Based on liebigite geometry (Mereiter 1982, COD 9009613)
+ Two Ca (Ca3 + Ca1), no lattice waters - solution-phase model
+ 16 atoms: 2 Oax + 6 Oeq + 3 C + 3 Odis + 2 Ca
+ ** Replace distances with your EXAFS-fit values **
+ Calculating potentials ...
+    free atom potential and density for atom type    0
+    free atom potential and density for atom type    1
+    free atom potential and density for atom type    2
+    free atom potential and density for atom type    3
+    initial state energy
+    overlapped potential and density for unique potential    0
+    overlapped potential and density for unique potential    1
+    overlapped potential and density for unique potential    2
+    overlapped potential and density for unique potential    3
+    muffin tin radii and interstitial parameters
+ iph, rnrm(iph)*bohr, rmt(iph)*bohr, folp(iph)
+    0  1.52367E+00  1.25659E+00  1.15000E+00
+    1  1.05347E+00  8.33811E-01  1.15000E+00
+    2  9.18002E-01  6.86756E-01  1.15000E+00
+    3  2.02262E+00  1.84918E+00  1.15000E+00
+              Core-valence separation
+ mu_old=     1.709
+              SCF ITERATION NUMBER  1  OUT OF 30
+ Calculating energy and space dependent l-DOS.
+ It takes time ...
+     point #   1  energy = -40.000
+        Doing FMS for a cluster of  17 atoms around iph =  0
+    0   FMS matrix (LUD) at point   1, number of state kets = 153
+     point #  20  energy = -28.824
