@@ -1,8 +1,7 @@
- TITLE  CaUO2(CO3)3 2- solution complex - U L3-edge XANES
- TITLE  Based on liebigite geometry (Mereiter 1982, COD 9009613)
- TITLE  Single Ca, no lattice waters - solution-phase model
- TITLE  2 Oax + 6 Oeq + 3 C + 3 Odis + 1 Ca
- TITLE  ** Replace distances with your EXAFS-fit values **
+ TITLE  UO2(CO3)3 4- complex - U L3-edge XANES (NO Ca reference)
+ TITLE  Based on liebigite geometry with Ca removed
+ TITLE  14 atoms: 2 Oax + 6 Oeq + 3 C + 3 Odis
+ TITLE  Compare with CaUO2(CO3)3 to isolate Ca spectral effects
 
  EDGE      L3
  S02       1.0
@@ -25,18 +24,12 @@
  *  Adjust vi0 magnitude to match your analyzer resolution
  EXCHANGE  0    0.0   -6.0   2
 
- MULTIPOLE  2  0
-
- *  NOTE: This is a minimal solution-phase model.
- *  You may want to add a shell of ~8-12 explicit water O atoms
- *  at ~3.6-4.0 A to represent the hydration sphere.
 
  POTENTIALS
  *  ipot  Z    element  l_scmt  l_fms  stoich
     0     92   U        4       4      0.001
     1      8   O        2       2      0.001
     2      6   C        2       2      0.001
-    3     20   Ca       3       3      0.001
 
  ATOMS
  *     x          y          z      ipot  tag          dist
@@ -52,7 +45,6 @@
      2.77203     0.53233     0.45337   2    C_C3         2.8589
     -0.96353    -1.92741    -1.88471   2    C_C1         2.8628
     -1.89200     1.54010     1.50941   2    C_C2         2.8688
-    -3.97770    -0.77391    -0.34818   3    Ca_Ca3       4.0672
     -1.40439    -2.81930    -2.62708   1    O_O13        4.1015
      3.99774     0.77461     0.56706   1    O_O33        4.1114
     -2.72528     2.24238     2.14906   1    O_O23        4.1321

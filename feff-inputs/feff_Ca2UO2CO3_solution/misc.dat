@@ -1,0 +1,6 @@
+Ca2UO2(CO3)3(aq) di-Ca complex - U L3-edge XANES
+Based on liebigite geometry (Mereiter 1982, COD 9009613)
+Two Ca (Ca3 + Ca1), no lattice waters - solution-phase model
+16 atoms: 2 Oax + 6 Oeq + 3 C + 3 Odis + 2 Ca
+** Replace distances with your EXAFS-fit values **
+ POT  SCF  30  6.0000   1, core-hole, AFOLP (folp(0)= 1.150)

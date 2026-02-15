@@ -24,6 +24,7 @@
  *  Adjust vi0 magnitude to match your analyzer resolution
  EXCHANGE  0    0.0   -6.0   2
 
+ MULTIPOLE  2  0
 
  POTENTIALS
  *  ipot  Z    element  l_scmt  l_fms  stoich

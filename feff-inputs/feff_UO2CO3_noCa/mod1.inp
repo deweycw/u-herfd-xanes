@@ -1,0 +1,17 @@
+mpot, nph, ntitle, ihole, ipr1, iafolp, ixc,ispec
+   1   2   4   4   1   0   0   1
+nmix, nohole, jumprm, inters, nscmt, icoul, lfms1, iunf
+   3  -1   0   0  30   0   1   0
+UO2(CO3)3 4- complex - U L3-edge XANES (NO Ca reference)                        
+Based on liebigite geometry with Ca removed                                     
+14 atoms: 2 Oax + 6 Oeq + 3 C + 3 Odis                                          
+Compare with CaUO2(CO3)3 to isolate Ca spectral effects                         
+gamach, rgrd, ca1, ecv, totvol, rfms1
+      8.10396      0.05000      0.20000    -40.00000      0.00000      6.00000
+ iz, lmaxsc, xnatph, xion, folp
+   92    2      1.00000      0.00000      1.15000
+    8    2      0.10000      0.00000      1.15000
+    6    2      0.10000      0.00000      1.15000
+OVERLAP option: novr(iph)
+   0   0   0
+ iphovr  nnovr rovr 

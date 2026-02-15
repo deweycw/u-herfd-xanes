@@ -24,6 +24,7 @@
  *  IMPORTANT: use same vi0 for mono-Ca and no-Ca models
  EXCHANGE  0    0.0   -6.0   2
 
+ MULTIPOLE  2  0
 
  *  NOTE: This is a minimal solution-phase model.
  *  You may want to add a shell of ~8-12 explicit water O atoms

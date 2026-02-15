@@ -1,0 +1,5 @@
+UO2(CO3)3 4- complex - U L3-edge XANES (NO Ca reference)
+Based on liebigite geometry with Ca removed
+14 atoms: 2 Oax + 6 Oeq + 3 C + 3 Odis
+Compare with CaUO2(CO3)3 to isolate Ca spectral effects
+ POT  SCF  30  6.0000   1, core-hole, AFOLP (folp(0)= 1.150)

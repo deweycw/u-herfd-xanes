@@ -271,4 +271,163 @@
     0   FMS matrix (LUD) at point   1, number of state kets = 144
      point #  20  energy = -28.797
      point #  40  energy =  -8.429
-     point #  60  energy =  -3
+     point #  60  energy =  -3.337
+  Electronic configuration
+   iph    il      N_el
+     0     0    0.389
+     0     1    6.394
+     0     2    2.853
+     0     3    0.000
+     1     0    1.920
+     1     1    4.519
+     1     2    0.277
+     1     3    0.000
+     2     0    1.110
+     2     1    2.547
+     2     2    0.443
+     2     3    0.000
+     3     0    0.798
+     3     1    7.491
+     3     2    2.531
+     3     3    0.000
+ mu_new=    -3.330
+ Charge transfer:  iph  charge(iph)
+       0    0.363
+       1   -0.717
+       2   -0.087
+       3   -2.825
+              SCF ITERATION NUMBER  7  OUT OF 30
+ Calculating energy and space dependent l-DOS.
+ It takes time ...
+     point #   1  energy = -40.000
+        Doing FMS for a cluster of  16 atoms around iph =  0
+    0   FMS matrix (LUD) at point   1, number of state kets = 144
+     point #  20  energy = -28.795
+     point #  40  energy =  -8.423
+     point #  60  energy =  -3.330
+  Electronic configuration
+   iph    il      N_el
+     0     0    0.390
+     0     1    6.393
+     0     2    2.852
+     0     3    0.000
+     1     0    1.920
+     1     1    4.518
+     1     2    0.278
+     1     3    0.000
+     2     0    1.110
+     2     1    2.548
+     2     2    0.443
+     2     3    0.000
+     3     0    0.800
+     3     1    7.494
+     3     2    2.539
+     3     3    0.000
+ mu_new=    -3.324
+ Charge transfer:  iph  charge(iph)
+       0    0.365
+       1   -0.715
+       2   -0.091
+       3   -2.843
+              SCF ITERATION NUMBER  8  OUT OF 30
+ Calculating energy and space dependent l-DOS.
+ It takes time ...
+     point #   1  energy = -40.000
+        Doing FMS for a cluster of  16 atoms around iph =  0
+    0   FMS matrix (LUD) at point   1, number of state kets = 144
+     point #  20  energy = -28.794
+     point #  40  energy =  -8.418
+     point #  60  energy =  -3.324
+  Electronic configuration
+   iph    il      N_el
+     0     0    0.389
+     0     1    6.393
+     0     2    2.852
+     0     3    0.000
+     1     0    1.920
+     1     1    4.518
+     1     2    0.278
+     1     3    0.000
+     2     0    1.109
+     2     1    2.545
+     2     2    0.443
+     2     3    0.000
+     3     0    0.801
+     3     1    7.497
+     3     2    2.549
+     3     3    0.000
+ mu_new=    -3.322
+ Charge transfer:  iph  charge(iph)
+       0    0.366
+       1   -0.714
+       2   -0.093
+       3   -2.848
+              SCF ITERATION NUMBER  9  OUT OF 30
+ Calculating energy and space dependent l-DOS.
+ It takes time ...
+     point #   1  energy = -40.000
+        Doing FMS for a cluster of  16 atoms around iph =  0
+    0   FMS matrix (LUD) at point   1, number of state kets = 144
+     point #  20  energy = -28.793
+     point #  40  energy =  -8.416
+     point #  60  energy =  -3.322
+  Electronic configuration
+   iph    il      N_el
+     0     0    0.389
+     0     1    6.393
+     0     2    2.852
+     0     3    0.000
+     1     0    1.920
+     1     1    4.518
+     1     2    0.278
+     1     3    0.000
+     2     0    1.109
+     2     1    2.542
+     2     2    0.443
+     2     3    0.000
+     3     0    0.801
+     3     1    7.498
+     3     2    2.551
+     3     3    0.000
+ mu_new=    -3.323
+ Charge transfer:  iph  charge(iph)
+       0    0.366
+       1   -0.715
+       2   -0.093
+       3   -2.848
+ Done with module 1: potentials.
+ Calculating cross-section and phases...
+    absorption cross section
+    phase shifts for unique potential    0
+    phase shifts for unique potential    1
+    phase shifts for unique potential    2
+    phase shifts for unique potential    3
+ Done with module 2: cross-section and phases...
+ Number of energy points =  90
+ Doing FMS for a cluster of  16 atoms around iph =  0
+ Please, wait (updates every 20 points) ...
+    0   FMS matrix (LUD) at point  20, number of state kets = 158
+    0   FMS matrix (LUD) at point  40, number of state kets = 158
+    0   FMS matrix (LUD) at point  60, number of state kets = 158
+    0   FMS matrix (LUD) at point  80, number of state kets = 158
+ Done with module 3: FMS.
+ Preparing plane wave scattering amplitudes...
+ Searching for paths...
+    Rmax -1.0000  keep and heap limits   0.0000000   0.0000000
+    Preparing neighbor table
+   Internal path finder limit exceeded -- path list may be incomplete.
+    Paths found        0   (maxheap, maxscatt       1   0)
+ Eliminating path degeneracies...
+    Plane wave chi amplitude filter   2.50%
+    Unique paths      0,  total paths       0
+ Done with module 4: pathfinder.
+ Calculating EXAFS parameters...
+    Curved wave chi amplitude ratio   4.00%
+    Discard feff.dat for paths with cw ratio <   2.67%
+    path  cw ratio     deg    nleg  reff
+    0 paths kept,    0 examined.
+ Done with module 5: F_eff.
+ Calculating chi...
+    Use all paths with cw amplitude ratio   4.00%
+    S02  1.000  Global sig2  0.00000
+ Done with module 6: DW + final sum over paths.
